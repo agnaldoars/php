@@ -1,0 +1,41 @@
+https://developers.google.com/chart/interactive/docs/quick_start
+https://developers.google.com/chart/interactive/docs/basic_load_libs
+https://developers.google.com/chart/interactive/docs/gallery/piechart
+https://www.w3schools.com/howto/howto_google_charts.asp
+https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Forms/Meu_primeiro_formulario_HTML
+https://www.w3schools.com/tags/
+https://www.w3schools.com/html/html_blocks.asp
+https://www.w3schools.com/tags/tag_div.asp
+https://www.w3schools.com/howto/howto_google_charts.asp
+https://github.com/puikinsh/gentelella/blob/master/production/echarts.html
+http://siwam.dev.ceptisp.caixa/php7/paulo/admin/gentelella/production/echarts.html
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_google_pie_chart
+https://stackoverflow.com/questions/23371118/call-to-undefined-method-pdoexecute
+https://developers.google.com/chart/interactive/faq
+Prepare the Data 
+https://developers.google.com/chart/interactive/docs/basic_preparing_data
+DataTables and DataViews 
+https://developers.google.com/chart/interactive/docs/datatables_dataviews
+Data Queries 
+https://developers.google.com/chart/interactive/docs/queries
+Draw the Chart 
+https://developers.google.com/chart/interactive/docs/basic_draw_chart
+Troubleshooting
+
+Why doesn't my chart appear?
+https://developers.google.com/chart/interactive/faq
+sqlsrv_fetch_array
+https://docs.microsoft.com/en-us/sql/connect/php/sqlsrv-fetch-array?view=sql-server-2017
+Passar variável php para javascript
+https://pt.stackoverflow.com/questions/58958/passar-vari%C3%A1vel-php-para-javascript
+https://pt.stackoverflow.com/questions/58958/passar-vari%C3%A1vel-php-para-javascript
+
+Passar array de PHP para Javascript, e de Javascript para PHP
+https://ahaprogramando.wordpress.com/2008/11/29/passar-array-de-php-para-javascript-e-de-javascript-para-php/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+
+
+
+
+{[(34852318)]}
